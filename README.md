@@ -107,10 +107,12 @@ This project is licensed under the MIT License.
 
 👨‍💻 Author
 
-Your Name
+ Anurag Ganesh Fengade 
 
 GitHub: https://github.com/your-username
+
 LinkedIn: https://linkedin.com/in/your-profile
+
 ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
