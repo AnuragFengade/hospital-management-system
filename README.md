@@ -109,9 +109,9 @@ This project is licensed under the MIT License.
 
  Anurag Ganesh Fengade 
 
-GitHub: https://github.com/your-username
+ 💻 GitHub
 
-LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn
 
 ⭐ Show Your Support
 
