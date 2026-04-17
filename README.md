@@ -63,9 +63,11 @@ hospital-management-system/
 │── README.md  
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/hospital-management-system.git
 cd hospital-management-system
+
 2️⃣ Configure Database
 Create a MySQL database
 Update credentials in application.properties
