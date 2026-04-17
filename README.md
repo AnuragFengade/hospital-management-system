@@ -74,6 +74,7 @@ Update credentials in application.properties
 spring.datasource.url=jdbc:mysql://localhost:3306/hospital_db
 spring.datasource.username=root
 spring.datasource.password=your_password
+
 3️⃣ Run the Application
 mvn spring-boot:run
 🔐 Default Roles
