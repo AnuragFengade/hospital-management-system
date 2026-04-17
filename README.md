@@ -77,14 +77,14 @@ spring.datasource.password=your_password
 
 3️⃣ Run the Application
 mvn spring-boot:run
+
+
 🔐 Default Roles
 Role	Access
 Admin	Full system control
 Doctor	Manage patients & appointments
 Staff	Handle basic operations
-📸 Screenshots
-
-Add screenshots of your dashboard, login page, and modules here
+ 
 
 📌 Future Enhancements
 📱 Mobile App Integration
