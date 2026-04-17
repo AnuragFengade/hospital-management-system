@@ -61,6 +61,7 @@ hospital-management-system/
 │── frontend/            # UI (if separate)  
 │── pom.xml              # Dependencies  
 │── README.md  
+
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/your-username/hospital-management-system.git
