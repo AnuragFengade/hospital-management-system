@@ -114,5 +114,4 @@ This project is licensed under the MIT License.
 🔗 LinkedIn
 
 ⭐ Show Your Support
-
 If you like this project, give it a ⭐ on GitHub!
